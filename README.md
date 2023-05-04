@@ -19,5 +19,6 @@ Além da graduação, estudo a língua inglesa (possuindo vocabulário intermedi
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </div>
+  </br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslobatob&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
