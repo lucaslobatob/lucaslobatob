@@ -1,6 +1,6 @@
 ## 👋 Lucas Lobato 
 
-Sou desenvolvedor com 2 anos e meio de experiência em programação, sempre buscando criar soluções que realmente façam a diferença. Meu foco é entender os problemas e oferecer soluções que economizem tempo e facilitem o dia a dia das pessoas. Estou sempre aprendendo e aprimorando minhas habilidades para entregar um código de qualidade e funcional.
+Sou desenvolvedor com 2 anos e meio de experiência, sempre buscando criar soluções que realmente façam a diferença. Meu foco é entender os problemas e oferecer soluções que economizem tempo e facilitem o dia a dia das pessoas. Estou sempre aprendendo e aprimorando minhas habilidades para entregar um código de qualidade e funcional.
 
 <div style="display: inline_block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
