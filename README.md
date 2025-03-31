@@ -1,4 +1,4 @@
-## 👋 Lucas Lobato 
+## 👋 Lucas Lobato  
 
 Sou um Desenvolvedor apaixonado pelo mundo da tecnologia. Desde que descobri o poder da programação, tenho me dedicado a aprender e explorar novas ferramentas, linguagens e frameworks para criar soluções inovadoras.
 Acredito que a tecnologia tem o potencial de transformar a vida das pessoas de maneira positiva, e meu objetivo é fazer com que a tecnologia impressione positivamente a experiência das pessoas. Quero criar soluções que não apenas resolvam problemas, mas também otimizem o tempo e tornem o dia a dia mais eficiente e agradável.
