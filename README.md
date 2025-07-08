@@ -1,6 +1,6 @@
 ## 👋 Lucas Lobato
 
-Sou um Desenvolvedor Full-Stack com forte atuação em Front-End, apaixonado por transformar ideias em interfaces acessíveis, funcionais e bem estruturadas. Tenho experiência prática com JavaScript, TypeScript, React, Node.js, MongoDB e Cypress, desenvolvendo aplicações reais com foco em performance, testes automatizados e boas práticas de desenvolvimento como Clean Code e arquitetura de componentes.
+Sou um Desenvolvedor com forte atuação em Front-End, apaixonado por transformar ideias em interfaces acessíveis, funcionais e bem estruturadas. Tenho experiência prática com JavaScript, TypeScript, React, Node.js, MongoDB e Cypress, desenvolvendo aplicações reais com foco em performance, testes automatizados e boas práticas de desenvolvimento como Clean Code e arquitetura de componentes.
 
 <div style="display: inline_block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
