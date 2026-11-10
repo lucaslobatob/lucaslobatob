@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Full Stack apaixonado por construir aplicações escaláveis, bem estruturadas e com foco em boas práticas de engenharia de software.
 
-Tenho experiência profissional desenvolvendo aplicações com **TypeScript, React, Next.js, Node.js, NestJS e MongoDB**, trabalhando com arquitetura de componentes, APIs, testes automatizados e melhoria contínua de código.
+Tenho experiência profissional desenvolvendo aplicações com **TypeScript, Java, Spring boot, Vue, React, Next.js, Node.js, NestJS, MySQL, PostgreSQL e MongoDB**, trabalhando com arquitetura de componentes, APIs, testes automatizados e melhoria contínua de código.
 
 Atualmente estou aprofundando meus conhecimentos em **Backend Development, Java, Spring Boot, Arquitetura de Software, Clean Code e Design de Sistemas**, buscando evoluir constantemente como Software Engineer.
 
